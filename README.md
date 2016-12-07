@@ -16,7 +16,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/gdgandroidbo/StudyJam_II_Views.git
+>     $ git clone https://github.com/Gusn8/StudyJam_II_Views_II.git
 
 Dentro de Android Studio:
 
@@ -30,6 +30,6 @@ Captura
 
 <div align="center">
     <center>
-        <img src="/img/screenshot.jpg" width="200">
+        <img src="/img/screenshot.jpg" width="300">
     </center>
 </div>
