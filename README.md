@@ -33,5 +33,5 @@ Captura
         <img src="/img/screenshot.jpg" width="300">
     </center>
 </div>
-<br>
-<a href="http://www.miramicodigo.com">@Gusn8</a>
+<br><br>
+<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
