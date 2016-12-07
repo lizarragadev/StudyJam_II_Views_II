@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main.tv.izq">30dp</dimen>
+    <dimen name="main.tv.der">30dp</dimen>
+    <dimen name="main.tv.arr">25dp</dimen>
+    <dimen name="main.tv.aba">25dp</dimen>
+
+    <dimen name="main.tv.acc.izq">35dp</dimen>
+    <dimen name="main.tv.acc.der">35dp</dimen>
+    <dimen name="main.tv.acc.arr">30dp</dimen>
+    <dimen name="main.tv.acc.aba">30dp</dimen>
+
+    <dimen name="main.tv.num.tamanio">30sp</dimen>
+    <dimen name="main.tv.acc.tamanio">15sp</dimen>
+
+    <dimen name="main.tv.resultado.padding">20dp</dimen>
+    <dimen name="main.tv.resultado.size">50sp</dimen>
+</resources>

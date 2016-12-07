@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudyJam_II_Views_II</string>
+
+    <string name="main.tv.uno">1</string>
+    <string name="main.tv.dos">2</string>
+    <string name="main.tv.tres">3</string>
+    <string name="main.tv.cuatro">4</string>
+    <string name="main.tv.cinco">5</string>
+    <string name="main.tv.seis">6</string>
+    <string name="main.tv.siete">7</string>
+    <string name="main.tv.ocho">8</string>
+    <string name="main.tv.nueve">9</string>
+    <string name="main.tv.cero">0</string>
+    <string name="main.tv.coma">,</string>
+    <string name="main.tv.igual">=</string>
+    <string name="main.tv.suma">+</string>
+    <string name="main.tv.resta">-</string>
+    <string name="main.tv.multiplicacion">x</string>
+    <string name="main.tv.division">/</string>
+    <string name="main.tv.ce">CE</string>
+    <string name="main.tv.resultado">0</string>
+
+</resources>
