@@ -28,7 +28,7 @@ Dentro de Android Studio:
 Captura
 ---------
 
-<div>
+<div align="center">
     <center>
         <img src="/img/screenshot.jpg" width="200">
     </center>
